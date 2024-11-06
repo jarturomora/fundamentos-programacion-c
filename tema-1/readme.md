@@ -3,6 +3,7 @@
 ## Contenido
 
 * [demo-clase.txt](code/demo-clase.txt): Ejemplo de algoritmo de programa que verifica si una persona es mayor de edad.
+
 * [demo-clase.drawio](code/demo-clase.drawio): Ejemplo de diagrama de flujo del algoritmo anterior en formado `drawio`.
 
 ## Herramientas Complementarias
