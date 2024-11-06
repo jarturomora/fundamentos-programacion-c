@@ -1,0 +1,7 @@
+0. Inicio
+1. Pedir nombre a la persona
+2. Preguntar la edad
+3. Validar si la edad >= 18
+	3.1 Si la edad es >= 18, enviar un mensaje que diga "eres mayor de edad".
+	3.2 De lo contrario, enviar un mensaje que diga "eres menor de edad".
+4. Fin
