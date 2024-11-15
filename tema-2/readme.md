@@ -4,6 +4,8 @@
 
 * [edad.c](code/edad.c): Programa en C que implementa el [algoritmo](../tema-1/code/demo-clase.txt) para validar si una persona es mayor de edad que se presenta en el Tema 1.
 
+* [edad-nombre.c](code/edad.c): Programa en C similar al anterior pero que incluye un paso 2.3 donde se imprime en pantalla el nombre de la persona.
+
 ## Herramientas Complementarias
 
 * [Visual Studio Code (VS Code)](https://code.visualstudio.com/): Editor de código que se utiliza como base para crear los programas de este repositorio.
@@ -13,9 +15,3 @@
 ## Vídeos de Apoyo
 
 * [Instalando Visual Studio Code y C en Windows](https://youtu.be/r_M1qSucDrU).
-
-
-
-
-
-
