@@ -13,3 +13,7 @@ A continuación se listan los enlaces a los directorios de cada tema (es importa
 * [Tema 1: Introducción y Algoritmos](tema-1)
 
 * [Tema 2: Elementos Básicos de un Programa](tema-2)
+
+* [Tema 3: Sentencias de Control](tema-3)
+
+* [Taller 1: Sentencias de control y control de entrada y salida de datos][taller]
