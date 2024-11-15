@@ -16,4 +16,4 @@ A continuación se listan los enlaces a los directorios de cada tema (es importa
 
 * [Tema 3: Sentencias de Control](tema-3)
 
-* [Taller 1: Sentencias de control y control de entrada y salida de datos][taller]
+* [Taller 1: Sentencias de control y control de entrada y salida de datos](taller)
