@@ -1,4 +1,4 @@
-# Sesión de Taller
+# Taller 1: Bucles
 
 ## Contenido
 
