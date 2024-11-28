@@ -10,10 +10,10 @@ En caso de que el jugador indique la posición de una mina, se rompe el bucle y 
 
 El siguiente diagrama muestra la lógica del juego.
 
-![Diagrama de flujo del juego buscaminas](assets/diagrama-buscaminas.png)
+![Diagrama de flujo del juego busca minas](assets/diagrama-buscaminas.png)
 
 ## Contenido
 
-* [buscaminas.c](code/buscaminas.c): Implementación del juego del buscaminas en C.
+* [buscaminas.c](code/buscaminas.c): Implementación del juego del busca minas en C.
 
 * [diagrama-buscaminas.txt](code/diagrama-buscaminas.txt): Diagrama de flujo en formato PlantUML que puede generarse en línea con la herramienta <https://planttext.com/>.
