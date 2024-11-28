@@ -1,0 +1,32 @@
+@startuml
+' Diagrama en formato PlantUML que puede generarse en línea con la herramienta: https://planttext.com/
+start
+:Mostrar mensaje de bienvenida;
+:Contar y mostrar la cantidad de minas en el mapa;
+
+while (¿Jugador sigue jugando?) is (Sí)
+    :Imprimir el mapa actual (sin minas);
+    :Solicitar coordenadas al jugador;
+    if (¿Coordenadas válidas?) then (Sí)
+        if (¿Es una mina?) then (Sí)
+            :Mostrar mensaje "¡BOOM! Has perdido";
+            :Mostrar el mapa completo con las minas;
+            stop
+        else (No)
+            :Marcar el espacio como descubierto;
+            if (¿Todos los espacios en blanco están descubiertos?) then (Sí)
+                :Mostrar mensaje "¡Has ganado!";
+                :Mostrar el mapa completo con las minas;
+                stop
+            else (No)
+                :Preguntar si desea seguir jugando;
+            endif
+        endif
+    else (No)
+        :Mostrar mensaje "Coordenadas fuera de rango";
+    endif
+endwhile
+
+:Mostrar mensaje "Gracias por jugar";
+stop
+@enduml
