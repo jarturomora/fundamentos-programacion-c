@@ -16,6 +16,12 @@ A continuación se listan los enlaces a los directorios de cada tema (es importa
 
 * [Tema 3: Sentencias de Control](tema-3)
 
-* [Taller 1: Sentencias de control y control de entrada y salida de datos](taller)
+* [Taller 1: Sentencias de control y control de entrada y salida de datos](taller-1)
 
 * [Tema 4: Abstacción, Modularidad y Funciones](tema-4)
+
+* [Tema 5: Estructuras de Datos Estáticas](tema-5)
+
+* [Taller 2: Juego del Busca Minas](taller-2)
+
+* [Tema 6: Estructuras de Datos Dinámicas, Punteros](tema-6)
