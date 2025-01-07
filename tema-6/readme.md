@@ -2,4 +2,4 @@
 
 ## Contenido
 
-* ![demo-punteros.c](code/demo-punteros.c): Código en C que muestra distintos usos de punteros.
+* [demo-punteros.c](code/demo-punteros.c): Código en C que muestra distintos usos de punteros.
