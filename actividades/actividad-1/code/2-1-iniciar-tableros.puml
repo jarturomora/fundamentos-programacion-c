@@ -1,8 +1,7 @@
 @startuml
 start
-:Inicio de Configuración;
 :Configurar Tablero de 7x7;
-:Colocar Barcos:
+:Colocar Barcos para cada jugador:
 - 1 Portaviones (4 posiciones)
 - 2 Cruceros (3 posiciones)
 - 3 Patrulleras (2 posiciones);
