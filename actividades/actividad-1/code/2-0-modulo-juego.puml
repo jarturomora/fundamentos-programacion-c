@@ -4,7 +4,7 @@ start
 :finJuego = False
 seguirJugando = True;
 if (seguirJugando == True) then (Sí)
-  if (finJuego != True) then (Sí)
+  if (finJuego == True) then (Sí)
     :Turno de Juego;
     :Validar fin del juego;
   else (No)
