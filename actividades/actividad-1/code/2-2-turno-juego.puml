@@ -1,0 +1,12 @@
+@startuml
+start
+:Inicio de Turno;
+:Seleccionar Posición;
+if (¿Tocado o Agua?) then (Tocado)
+    :Actualizar Estado del Barco;
+else (Agua)
+    :Pasar Turno;
+endif
+:Fin de Turno;
+stop
+@enduml
