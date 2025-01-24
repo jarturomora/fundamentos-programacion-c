@@ -10,20 +10,30 @@ Este repositorio se organiza por directorios que contienen material de apoyo rel
 
 A continuación se listan los enlaces a los directorios de cada tema (es importante destacar que actualmente el contenido está en desarrollo y actualización constante).
 
+### Temas vistos en Clse
+
 * [Tema 1: Introducción y Algoritmos](tema-1)
 
 * [Tema 2: Elementos Básicos de un Programa](tema-2)
 
 * [Tema 3: Sentencias de Control](tema-3)
 
-* [Taller 1: Sentencias de control y control de entrada y salida de datos](taller-1)
-
 * [Tema 4: Abstacción, Modularidad y Funciones](tema-4)
 
 * [Tema 5: Estructuras de Datos Estáticas](tema-5)
 
-* [Taller 2: Juego del Busca Minas](taller-2)
-
 * [Tema 6: Estructuras de Datos Dinámicas, Punteros](tema-6)
 
 * [Tema 7: Ficheros](tema-7)
+
+### Talleres
+
+* [Taller 1: Sentencias de control y control de entrada y salida de datos](taller-1)
+
+* [Taller 2: Juego del Busca Minas](taller-2)
+
+* [Taller 3: Juego de Adivina Palabra](taller-3)
+
+* [Taller 4: Juego de Dados entre Dos Jugadores](taller-4)
+
+* [Taller 5: Documentar Nuestros Juegos](taller-5)
