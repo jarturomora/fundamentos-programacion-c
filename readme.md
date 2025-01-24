@@ -10,7 +10,7 @@ Este repositorio se organiza por directorios que contienen material de apoyo rel
 
 A continuación se listan los enlaces a los directorios de cada tema (es importante destacar que actualmente el contenido está en desarrollo y actualización constante).
 
-### Temas vistos en Clse
+### Temas vistos en Clase
 
 * [Tema 1: Introducción y Algoritmos](tema-1)
 
