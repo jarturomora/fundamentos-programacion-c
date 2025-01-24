@@ -25,3 +25,5 @@ A continuación se listan los enlaces a los directorios de cada tema (es importa
 * [Taller 2: Juego del Busca Minas](taller-2)
 
 * [Tema 6: Estructuras de Datos Dinámicas, Punteros](tema-6)
+
+* [Tema 7: Ficheros](tema-7)
