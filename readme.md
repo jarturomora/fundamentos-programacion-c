@@ -36,6 +36,8 @@ A continuación se listan los enlaces a los directorios de cada tema (es importa
 
 * [Taller 3: Juego de Adivina Palabra](taller-3)
 
-* [Taller 4: Juego de Dados entre Dos Jugadores](taller-4)
+* [Taller 4 (Tipo examen): Juego de Dados entre Dos Jugadores](taller-4)
 
 * [Taller 5: Documentar Nuestros Juegos](taller-5)
+
+* [Taller 6 (Tipo examen): Adivina el Número Mayor o Menor](taller-6)
