@@ -26,6 +26,8 @@ A continuación se listan los enlaces a los directorios de cada tema (es importa
 
 * [Tema 7: Ficheros](tema-7)
 
+* [Tema 8: Recursividad](tema-8)
+
 ### Talleres
 
 * [Taller 1: Sentencias de control y control de entrada y salida de datos](taller-1)
