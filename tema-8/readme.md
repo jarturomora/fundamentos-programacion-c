@@ -22,6 +22,17 @@ n! = n * (n - 1) * (n - 2) * ... * 1
 
 Por ejemplo, `5! = 5 * 4 * 3 * 2 * 1 = 120`.
 
+```text
+5! = 5 * (5 - 1) * (5 - 2) * (5 - 3) * 1
+   = 5 * 4 * (5 - 2) * (5 - 3) * 1
+   = 5 * 4 * 3 * (5 - 3) * 1
+   = 5 * 4 * 3 * 2 * 1
+   = 20 * 3 * 2 * 1
+   = 60 * 2 * 1
+   = 120 * 1
+   = 120
+```
+
 ### Código Iterativo
 
 Primero, implementamos el cálculo del factorial de forma iterativa:
