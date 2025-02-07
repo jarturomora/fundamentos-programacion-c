@@ -19,14 +19,14 @@ Al final, se pregunta al jugador si desea jugar nuevamente con una nueva lista d
 
 ## Criterios de Evaluación
 
-| Criterio                                                                                       | Ponderación | Descripción                                                                          |
-|------------------------------------------------------------------------------------------------|-------------|--------------------------------------------------------------------------------------|
-| 1. Generación de números aleatorios                                                            | 2 puntos    | - El programa genera correctamente una lista de 10 números aleatorios entre 1 y 100. |
-| - Los números son únicos o correctamente generados aleatoriamente.                             |             |                                                                                      |
-| 2. Selección del reto (mayor o menor)                                                          | 2 puntos    | - El jugador puede elegir si quiere adivinar el número mayor o el número menor.      |
-| 3. Adivinanza e intentos limitados                                                             | 2 puntos    | - El jugador tiene un máximo de 5 intentos para adivinar.                            |
-| - El programa da retroalimentación tras cada intento (correcto o incorrecto).                  |             |                                                                                      |
-| 4. Mensajes claros en pantalla                                                                 | 2 puntos    | - Se muestran mensajes claros para las instrucciones, aciertos y errores.            |
-| - El programa muestra el número correcto si el jugador no adivina.                             |             |                                                                                      |
-| 5. Uso de bucles y control de flujo                                                            | 2 puntos    | - Se utilizan bucles para manejar los intentos y la repetición del juego.            |
-| - Se maneja adecuadamente la elección del jugador y las condiciones de finalización del juego. |             |                                                                                      |
+| Criterio                                                                                       | Ponderación | Descripción                                                                                    |
+|------------------------------------------------------------------------------------------------|-------------|------------------------------------------------------------------------------------------------|
+| 1. Generación de números aleatorios                                                            | 2 puntos    | - El programa genera correctamente una lista de 10 números aleatorios entre 1 y 20.            |
+|                                                                                                |             | - Los números son únicos o correctamente generados aleatoriamente.                             |
+| 2. Selección del reto (mayor o menor)                                                          | 2 puntos    | - El jugador puede elegir si quiere adivinar el número mayor o el número menor.                |
+| 3. Adivinanza e intentos limitados                                                             | 2 puntos    | - El jugador tiene un máximo de 3 intentos para adivinar.                                      |
+|                                                                                                |             | - El programa da retroalimentación tras cada intento (correcto o incorrecto).                  |
+| 4. Mensajes claros en pantalla                                                                 | 2 puntos    | - Se muestran mensajes claros para las instrucciones, aciertos y errores.                      |
+|                                                                                                |             | - El programa muestra el número correcto si el jugador no adivina.                             |
+| 5. Uso de bucles y control de flujo                                                            | 2 puntos    | - Se utilizan bucles para manejar los intentos y la repetición del juego.                      |
+|                                                                                                |             | - Se maneja adecuadamente la elección del jugador y las condiciones de finalización del juego. |
