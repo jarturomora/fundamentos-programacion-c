@@ -41,3 +41,7 @@ A continuación se listan los enlaces a los directorios de cada tema (es importa
 * [Taller 5: Documentar Nuestros Juegos](taller-5)
 
 * [Taller 6 (Tipo examen): Adivina el Número Mayor o Menor](taller-6)
+
+* [Taller 7 (Tipo examen): Adivina la Capital](taller-7)
+
+* [Taller 8 (Tipo examen): Juego de Registro de Puntos de una Partida de Bolos](taller-8)
