@@ -26,7 +26,7 @@ operaciones aritméticas.
 números enteros y calcule su promedio. Luego, muestra el resultado en
 pantalla con dos decimales.
 
-### Ejemplo de entrada/salida:
+### Ejemplo de entrada/salida
 
     Ingrese el primer número: 10
     Ingrese el segundo número: 20
@@ -36,8 +36,8 @@ pantalla con dos decimales.
 
 Pistas:
 
-- Usa `scanf()` para capturar la entrada del usuario.
-- Usa `printf()` con `%.2f` para mostrar dos decimales.
+* Usa `scanf()` para capturar la entrada del usuario.
+* Usa `printf()` con `%.2f` para mostrar dos decimales.
 
 ## Ejercicio 2: Determinar si un número es par o impar
 
@@ -46,7 +46,7 @@ Pistas:
 **Enunciado:** Escribe un programa que solicite al usuario un número
 entero y determine si es **par o impar**.
 
-### Ejemplo de entrada/salida:
+### Ejemplo de entrada/salida
 
     Ingrese un número: 7
     El número 7 es impar.
@@ -54,7 +54,7 @@ entero y determine si es **par o impar**.
 
 Pistas:
 
-- Usa el operador módulo `%` para verificar si `numero % 2 == 0`.
+* Usa el operador módulo `%` para verificar si `numero % 2 == 0`.
 
 ## Ejercicio 3: Tabla de multiplicar
 
@@ -63,7 +63,7 @@ Pistas:
 **Enunciado:** Crea un programa que pida al usuario un número entero y
 luego imprima la tabla de multiplicar del 1 al 10 de ese número.
 
-### Ejemplo de entrada/salida:
+### Ejemplo de entrada/salida
 
     Ingrese un número: 5
     5 x 1 = 5
@@ -73,7 +73,7 @@ luego imprima la tabla de multiplicar del 1 al 10 de ese número.
           
 Pistas:
 
-- Usa un bucle `for` para recorrer del 1 al 10.
+* Usa un bucle `for` para recorrer del 1 al 10.
 
 ## Ejercicio 4: Contar vocales en una cadena
 
@@ -82,15 +82,15 @@ Pistas:
 **Enunciado:** Escribe un programa que pida al usuario una palabra y
 cuente cuántas vocales (`a, e, i, o, u`) contiene.
 
-### Ejemplo de entrada/salida:
+### Ejemplo de entrada/salida
 
     Ingrese una palabra: hola
     Número de vocales: 2
             
 Pistas:
 
-- Usa un bucle `for` para recorrer la cadena.
-- Usa `tolower()` de `ctype.h` para hacer la comparación sin
+* Usa un bucle `for` para recorrer la cadena.
+* Usa `tolower()` de `ctype.h` para hacer la comparación sin
     distinguir mayúsculas y minúsculas.
 
 ## Ejercicio 5: Juego de Piedra, Papel o Tijera
@@ -103,14 +103,14 @@ aleatorios y comparación de cadenas.
 generar una opción aleatoria para la computadora y comparar el resultado
 con la elección del usuario para determinar el ganador.
 
-### Reglas del juego:
+### Reglas del juego
 
-- Piedra (1) gana a Tijera (3)
-- Tijera (3) gana a Papel (2)
-- Papel (2) gana a Piedra (1)
-- Si ambos eligen la misma opción, el juego termina en empate.
+* Piedra (1) gana a Tijera (3)
+* Tijera (3) gana a Papel (2)
+* Papel (2) gana a Piedra (1)
+* Si ambos eligen la misma opción, el juego termina en empate.
 
-### Ejemplo de entrada/salida:
+### Ejemplo de entrada/salida
 
     Bienvenido al juego de Piedra, Papel o Tijera.
     Elige una opción:
@@ -123,6 +123,5 @@ con la elección del usuario para determinar el ganador.
      
 Pistas:
 
-- Usa `rand() % 3 + 1` para generar la elección de la computadora.
-- Usa `if-else` para comparar las opciones y determinar el ganador.
-
+* Usa `rand() % 3 + 1` para generar la elección de la computadora.
+* Usa `if-else` para comparar las opciones y determinar el ganador.
