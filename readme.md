@@ -1,4 +1,4 @@
-# Repositorio de la Asignatura "Fundamentos de Programación"
+# Repositorio de la Asignatura "Fundamentos de Programación" - Curso 2025-2026
 
 ## Aclaración
 
