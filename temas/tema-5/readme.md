@@ -8,7 +8,7 @@
 
 * [simple-cube.c](code/simple-cube.c): Código que implementa el uso de un array de tres dimensiones.
 
-* [busqueda.c](code/busqueda.c): Código que implementa las búsquedas lineas y binaria en conjunto con un menú de opciones.
+* [busqueda.c](code/busqueda.c): Código que implementa las búsquedas lineal y binaria en conjunto con un menú de opciones.
 
 ## Retos Opcionales
 
