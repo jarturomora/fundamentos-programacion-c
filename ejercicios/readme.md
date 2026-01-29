@@ -14,7 +14,7 @@ Ha llegado el momento de poner a prueba tus habilidades en programación en C. H
 
 * Intenta resolver cada ejercicio sin ver la solución.
 * Si tienes complicaciones para resolver un ejercicio, vuelve a revisar tus apuntes o el material del curso.
-* Si después de varios intentos no encuentras la solución, entonces puedes revisar las soluciones que he generado para cada problema en este [enlace](soluciones.md).
+* Si después de varios intentos no encuentras la solución, entonces puedes revisar las soluciones que he generado para cada problema en este [enlace](soluciones/readme.md).
 * Recuerda que aprender a depurar errores es parte fundamental de la programación.
 
 ## Ejercicio 1: Cálculo del promedio de tres números
