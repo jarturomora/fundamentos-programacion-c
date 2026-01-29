@@ -31,7 +31,7 @@ int main() {
 
     // 5. Leer y mostrar el contenido del fichero
     printf("Contenido del fichero '%s':\n", nombre_fichero);
-    char linea[256];
+    char linea[256]; //buffer para almacenar cada línea
     while (fgets(linea, sizeof(linea), fichero) != NULL) {
         printf("%s", linea); // Mostrar cada línea en pantalla
     }

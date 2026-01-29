@@ -9,15 +9,15 @@ struct Jugador {
 };
 
 int main() {
-    struct Jugador jugador;
+    struct Jugador miJugador;
 
     // Solicitar los datos del jugador
     printf("Introduce el nombre del jugador: ");
-    scanf("%49s", jugador.nombre); // Limitar la entrada a 49 caracteres
+    scanf("%49s", miJugador.nombre); // Limitar la entrada a 49 caracteres
     printf("Introduce el nivel del juego: ");
-    scanf("%d", &jugador.nivel);
+    scanf("%d", &miJugador.nivel);
     printf("Introduce los puntos del jugador: ");
-    scanf("%d", &jugador.puntos);
+    scanf("%d", &miJugador.puntos);
 
     // Guardar los datos en un fichero binario
     FILE *fichero = fopen("ficheros\\jugador.dat", "wb");
@@ -25,7 +25,7 @@ int main() {
         perror("Error al abrir el fichero para escritura");
         return 1;
     }
-    fwrite(&jugador, sizeof(struct Jugador), 1, fichero);
+    fwrite(&miJugador, sizeof(struct Jugador), 1, fichero);
     fclose(fichero);
     printf("Datos del jugador guardados correctamente en 'jugador.dat'.\n");
 

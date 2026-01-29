@@ -2,13 +2,7 @@
 
 // Función recursiva para calcular el factorial
 int factorial_recursivo(int n) {
-    if (n == 0 || n == 1) {
-        // Caso Base: el factorial de 0 o 1 es 1
-        return 1;
-    } else {
-        // Caso Recursivo: n! = n * (n - 1)!
-        return n * factorial_recursivo(n - 1);
-    }
+    return n * factorial_recursivo(n - 1);
 }
 
 int main() {
